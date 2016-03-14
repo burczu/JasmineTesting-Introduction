@@ -1,7 +1,6 @@
 {
   "name": "jasmine-testing-introduction",
   "version": "1.0.0",
-  "author": "Bartłomiej Dybowski",
   "description": "",
   "main": "index.html",
   "scripts": {
@@ -11,10 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/burczu/JasmineTesting-Introduction.git"
   },
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/burczu/JasmineTesting-Introduction/issues"
   },
-  "homepage": "https://github.com/burczu/JasmineTesting-Introduction#readme"
+  "homepage": "https://github.com/burczu/JasmineTesting-Introduction#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
 }
